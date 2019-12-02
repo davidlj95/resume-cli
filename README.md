@@ -1,3 +1,6 @@
+# Fork of [resume-cli](https://github.com/jsonresume/resume-cli)
+# Updated dependencies
+
 # resume-cli
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsonresume/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
