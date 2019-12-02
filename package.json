@@ -4,6 +4,8 @@
   "description": "The JSON Resume command line interface",
   "main": "index.js",
   "scripts": {
+    "gitignore": "curl http://gitignore.io/api/vim,node,linux,macos,emacs,windows,webstorm+iml > .gitignore",
+    "postgitignore": "cat .gitignore.template >> .gitignore",
     "test": "node node_modules/mocha/bin/mocha test test/*.js"
   },
   "repository": {
